@@ -7,7 +7,7 @@
         <div class="container">
             <h1>Soluciones de TI a tu medida</h1>
             <p>En DoneIT, ofrecemos consultoría y soporte técnico para llevar tu negocio al siguiente nivel.</p>
-            <a href="#contact" class="btn btn-primary">Contáctanos</a>
+            <a href="/contacto" class="btn btn-primary">Contáctanos</a>
         </div>
     </section>
 
